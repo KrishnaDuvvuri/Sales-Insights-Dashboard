@@ -64,7 +64,8 @@ This project transforms raw Superstore data into actionable insights for busines
 
 ## Tableau Dashboard
 
-**[View Live on Tableau Public]([https://public.tableau.com/](https://public.tableau.com/views/Book1_17533639253980/Dashboard1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link))**  
+**[View Live on Tableau Public]
+[https://public.tableau.com/views/Book1_17533639253980/Dashboard1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link]** 
 
 ---
 
